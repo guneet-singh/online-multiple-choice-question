@@ -1,0 +1,255 @@
+{
+    "questions1": [
+        {
+            "id": 0,
+            "question": "React was developed by",
+            "answers": [
+                "facebook",
+                "google",
+                "apple"
+            ]
+        },
+        {
+            "id": 1,
+            "question": "Redux saga is used to handle",
+            "answers": [
+                "exceptions",
+                "errors",
+                "side effects"
+            ]
+        },
+        {
+            "id": 2,
+            "question": "What does npm stand for?",
+            "answers": [
+                "node packet mystery",
+                "new package manager",
+                "node package manager",
+                "Null package manager"
+            ]
+        },
+        {
+            "id": 3,
+            "question": "JavaScript is an ________ language.",
+            "answers": [
+                "interpreted",
+                "compiled"
+            ]
+        },
+        {
+            "id": 4,
+            "question": "Select correct output for undefined === undefined",
+            "answers": [
+                "true",
+                "false",
+                "null"
+            ]
+        },
+        {
+            "id": 5,
+            "question": "Everything in React is a _____________",
+            "answers": [
+                "module",
+                "component",
+                "package",
+                "class"
+            ]
+        },
+        {
+            "id": 6,
+            "question": "What is default port for webpack-dev-server",
+            "answers": [
+                "3030",
+                "8081",
+                "8080"
+            ]
+        }
+    ],
+    "questions2": [
+        {
+            "id": 0,
+            "question": "What is skeleton of a webpage",
+            "answers": [
+                "HTML",
+                "javascript",
+                "css"
+            ]
+        },
+        {
+            "id": 1,
+            "question": "Which of these is not a feature of ES6",
+            "answers": [
+                "Arrow Functions",
+                "Spread Operator",
+                "Overloading",
+                "Destructuring"
+            ]
+        },
+        {
+            "id": 2,
+            "question": "Which of these is not a state management library",
+            "answers": [
+                "Redux",
+                "Flux",
+                "Angular"
+            ]
+        },
+        {
+            "id": 3,
+            "question": "What are ways of handling data in react",
+            "answers": [
+                "state & props",
+                "services & components"
+            ]
+        },
+        {
+            "id": 4,
+            "question": "Select correct output for undefined === undefined",
+            "answers": [
+                "true",
+                "false",
+                "null"
+            ]
+        },
+        {
+            "id": 5,
+            "question": "HTML stands for?",
+            "answers": [
+                "Hyper Text Markup Language",
+                "High Text Markup Language",
+                "none"
+            ]
+        },
+        {
+            "id": 6,
+            "question": "HTML tag for the largest heading is",
+            "answers": [
+                "h4",
+                "hd",
+                "h1"
+            ]
+        }
+    ],
+    "questions3": [
+        {
+            "id": 0,
+            "question": "ES stands for",
+            "answers": [
+                "EmberScript",
+                "EcmaScript",
+                "EsterScript"
+            ]
+        },
+        {
+            "id": 1,
+            "question": "Angular was developed by",
+            "answers": [
+                "Facebook",
+                "Apple",
+                "Google",
+                "NASA"
+            ]
+        },
+        {
+            "id": 2,
+            "question": "What would be the output of NaN === NaN",
+            "answers": [
+                "true",
+                "false",
+                "null",
+                "undefined"
+            ]
+        },
+        {
+            "id": 3,
+            "question": "What are ways of handling data in react",
+            "answers": [
+                "state & props",
+                "services & components"
+            ]
+        },
+        {
+            "id": 4,
+            "question": "Where does redux store state",
+            "answers": [
+                "store",
+                "apartment",
+                "database"
+            ]
+        },
+        {
+            "id": 5,
+            "question": "Which selector is used to define style for unique element",
+            "answers": [
+                "class",
+                "id",
+                "none"
+            ]
+        },
+        {
+            "id": 6,
+            "question": "HTML tag for the largest heading is",
+            "answers": [
+                "h4",
+                "hd",
+                "h1"
+            ]
+        }
+    ],
+    "questions4": [
+        {
+            "id": 0,
+            "question": "CSS stands for",
+            "answers": [
+                "Center Style Sheets",
+                "Cascading Style Sheets",
+                "Cuban Style Sheets"
+            ]
+        },
+        {
+            "id": 1,
+            "question": "Which of these is not a component lifecycle method",
+            "answers": [
+                "componentWillReceiveProps",
+                "componentDidCatch",
+                "componentDidTry"
+            ]
+        },
+        {
+            "id": 2,
+            "question": "what does DOM stand for",
+            "answers": [
+                "Dumb Object Model",
+                "Document Object Model",
+                "Distinct Object Model",
+                "Document Over Model"
+            ]
+        },
+        {
+            "id": 3,
+            "question": "Can we align a Block element by setting the left and right margins?",
+            "answers": [
+                "Yes",
+                "No"
+            ]
+        },
+        {
+            "id": 4,
+            "question": "What is unique feature of react",
+            "answers": [
+                "virtual dom",
+                "static dom",
+                "dynamic dom"
+            ]
+        },
+        {
+            "id": 5,
+            "question": "Which selector is used to define style for unique element",
+            "answers": [
+                "class",
+                "id",
+                "none"
+            ]
+        }
+    ]
+}
