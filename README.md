@@ -1,4 +1,4 @@
-Online MCQ Test
+Online MCQ Test React Redux Redux Saga
 
 Steps to run application
 1. npm i (this will install all the required npm packages. All packages are compatiable with latest node version)
